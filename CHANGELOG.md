@@ -1,5 +1,5 @@
-# Change Log
-All notable changes to this project will be documented in this file.
+# Changelog
+All notable changes to this project are documented in this file.
  
 ## [3.6 SP1] - 2020-06-30
 
