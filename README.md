@@ -1,12 +1,12 @@
-# AMPLIFY Transfer CFT Containerized
+# Containerized AMPLIFY Transfer CFT 
 
 ## Content
-In the different folders found in this repository, you can find templates for different ways of deploying Transfer CFT in a containerized world.
-- docker: contains the Dockerfile template and all other resources needed to create a docker image for Transfer CFT.
-- compose: contains templates for docker-compose files to deploy Transfer CFT using docker-compose.
-- helm: contains the helm templates to deploy Transfer CFT in Kubernetes.
+The folders in this repository provide templates for the various ways of deploying Transfer CFT in a containerized world.
+- docker: Contains the Dockerfile template and all other resources needed to create a docker image for Transfer CFT.
+- compose: Contains templates for docker-compose files to deploy Transfer CFT using docker-compose.
+- helm: Contains the Helm templates to deploy Transfer CFT in Kubernetes.
 
-Please refer to the README present inside each of the directories to find more information about the chosen deployment way.
+Please refer to the directory READMEs for more information about deployment methods.
 
 ## Copyright
 
